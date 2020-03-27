@@ -7,7 +7,6 @@ versioneer.versionfile_build = 'frontera/_version.py'
 versioneer.tag_prefix = 'v'  # tags are like v1.2.0
 versioneer.parentdir_prefix = 'frontera-'
 
-
 setup(
     name='frontera',
     version=versioneer.get_version(),
